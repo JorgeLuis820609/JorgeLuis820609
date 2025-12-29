@@ -15,3 +15,4 @@ Más de 20 años de experiencia en banca, actualmente enfocado en análisis de d
 ### 📫 Contacto
 - Email: jlhernandezm11@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/jorge-luis-hernandez-finanzas-digitales
+- Interesado en roles Jr / Semi-Sr en Data Analytics, Business Intelligence y Financial Analytics.”
